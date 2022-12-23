@@ -1,4 +1,2 @@
-Hi, I’m Thomas and welcome to my Github. I’m interested in software development and/or data analytics.
-I’m currently learning python and using the #100DaysofCode challenge through Udemy to do so. You can check my Twitter for daily updates on how this is going, and what I've created each day.
-You can reach me via email at hudsonthomas55@gmail.com or at my Twitter link below.
+Hi, I’m Thomas, I'm interested in software and web development and I'm currently learning python. I'm more active on my Twitter, and am certainly more active in coding than my comits would suggest. Shoot me a DM on Twitter or an email at HudsonThomas55@Gmail.com!
 
