@@ -11,5 +11,5 @@
 Hi, I’m Thomas <br>
 I'm interested in software development and I primarily use python. I'm looking to get into the tech industry as a career and am working hard to make that dream a reality.
 <br>
-Shoot me a DM on Twitter or an email at HudsonThomas55@Gmail.com and connect with me!
+Connect with me on Twitter at the link above!
 
