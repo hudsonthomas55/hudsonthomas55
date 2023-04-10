@@ -9,7 +9,8 @@
 
 
 Hi, I’m Thomas <br>
-I'm interested in software development and I primarily use python. I'm looking to get into the tech industry as a career and am working hard to make that dream a reality.
+I'm interested in software development and I primarily use python but have some experience in C as well. I am familiar with Web Development including 
+HTML/CSS/basic JS. I'm looking to get into the tech industry as a career and am working hard to make that dream a reality.
 <br>
 Connect with me on Twitter at the link above!
 
